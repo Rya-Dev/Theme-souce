@@ -1,3 +1,15 @@
+:root {
+    --green: #43b581;
+	--greenDark: #359066;
+	--yellow: #faa61a;
+	--yellowDark: #dc8b05;
+	--red: #f04747;
+	--redDark: #b63b3b;
+	--purple: #593695;
+	--purpleDark: #432870;
+	--blurple: rgba(var(--AccentColor), 1) !important;
+	--nitro: #ff73fa;
+}
 .theme-dark {
     --foreground-1: #252831;
     --foreground-2: #21232b;
